@@ -1,5 +1,12 @@
 #EXTM3U
 
+
+#EXTINF:-1, DAZN LIGA 1080
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+#EXTINF:-1, DAZN LIGA 1080
+acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
+#EXTINF:-1, DAZN LIGA 720
+acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 #EXTINF:-1, DAZN 1 1080
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1, DAZN 1 720
@@ -20,8 +27,14 @@ acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 acestream://a4d17dec3b341fb4c10afab81068dca29c5e9a4a
 #EXTINF:-1, M. LALIGA 1080 MULTIAUDIO
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+#EXTINF:-1, M. LALIGA 1080 MULTIAUDIO
+acestream://d47addf5e467cbf102ba759600303c21efb1deeb
 #EXTINF:-1, M. LALIGA 720
 acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+#EXTINF:-1, M. LALIGA 2 1080
+acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+#EXTINF:-1, M. LALIGA 2 720
+acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 #EXTINF:-1, M. DEPORTES 1080
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 #EXTINF:-1, M. DEPORTES 720
