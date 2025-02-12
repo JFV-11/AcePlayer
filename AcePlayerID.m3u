@@ -1,3 +1,12 @@
+#EXTINF:-1, La Liga TV BAR 1080
+acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1, La Liga TV BAR 1080
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://iusport.com/upload/images/01_2023/385_laliga-bar.jpg" group-title="ELCANO",LaLiga TV BAR
+acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://iusport.com/upload/images/01_2023/385_laliga-bar.jpg" group-title="ELCANO",LaLiga TV BAR
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+
 #EXTINF:-1, M.L. Campeones 1080 MultiAudio
 acestream://0a26e20f39845e928411e09a124374fccb6e1478
 #EXTINF:-1, M.L. Campeones 1080 MultiAudio
@@ -31,6 +40,13 @@ acestream://e42984ac6529407462f92201af95c01db8988368
 acestream://65a18a6bd83918a9586b673fec12405aaf4e9f7d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GtKncC/camp04.png" group-title="new_TimeTronoss" tvg-id="M+ Liga de Campeones 4",M.L. Campeones 4
 acestream://01152274037c5f7155489e0a977cbde71a61290c
+
+#EXTINF:-1, M.Plus 1080
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" group-title="new_TimeTronoss" tvg-id="Movistar Plus+ HD",M+ Plus+
+acestream://bf270b6486daf3a2aa54bc027fd7cb02401a447a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gL8rx1B7/plus2.png" group-title="new_TimeTronoss" tvg-id="Movistar Plus+ 2 HD",M+ Plus+ 2
+acestream://0ab6bab2334d442b68671cc86c4243f2b0bf1290
 
 #EXTINF:-1, #Vamos 1080 
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
