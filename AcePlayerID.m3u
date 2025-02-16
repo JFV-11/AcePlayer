@@ -1,4 +1,5 @@
 # MOVISTAR TV BAR
+# _______________
 
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://iusport.com/upload/images/01_2023/385_laliga-bar.jpg" group-title="ELCANO",LaLiga TV BAR
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
@@ -6,6 +7,7 @@ acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 
 # MOVISTAR LALIGA 1
+# _________________
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="ELCANO",M. LaLiga 1 1080
 acestream://94d34491106e00394835c8cb68aa94481339b53f
@@ -19,6 +21,7 @@ acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 
 # MOVISTAR LALIGA 2
+# _________________
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="ELCANO",M. LaLiga 2 1080
 acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
@@ -28,6 +31,7 @@ acestream://f31a586422c9244196c810c84b6c85da350318a5
 acestream://83a2be1d789584c6040308d485ab1b29880af100
 
 # DAZN LALIGA 1
+# _____________
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="ELCANO",DAZN LaLiga 1 1080 multiaudio
 acestream://110d441ddc9713a7452588770d2bc85504672f47
@@ -45,6 +49,7 @@ acestream://28c8115681bf6e4565cb5e987530c2f606cc561f
 acestream://f509888b9c39e8de6e275b19796d6cac5f3fd6cb
 
 # DAZN LALIGA 2
+# _____________
 
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="ELCANO",DAZN LaLiga 2 1080
 acestream://97ba38d47680954be40e48bd8f43e17222fefecb
@@ -54,6 +59,7 @@ acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
 acestream://c79b272e20f31d1be9103f582e87209a06a63927
 
 # LIGA CAMPEONES
+# ______________
 
 #EXTINF:-1, M.L. Campeones 1080 MultiAudio
 acestream://0a26e20f39845e928411e09a124374fccb6e1478
@@ -90,6 +96,7 @@ acestream://65a18a6bd83918a9586b673fec12405aaf4e9f7d
 acestream://01152274037c5f7155489e0a977cbde71a61290c
 
 # MOVISTAR+
+# _________
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" group-title="ELCANO", M.Plus 1080
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
@@ -99,6 +106,7 @@ acestream://bf270b6486daf3a2aa54bc027fd7cb02401a447a
 acestream://0ab6bab2334d442b68671cc86c4243f2b0bf1290
 
 # VAMOS
+# _____
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="ELCANO", #Vamos 1080 
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
