@@ -67,43 +67,71 @@ acestream://0a26e20f39845e928411e09a124374fccb6e1478
 acestream://775abd8697715c48a357906d40734ccd2a10513c
 #EXTINF:-1, M.L. Campeones 720
 acestream://8edb264520569b2280c5e86b2dc734e120032903
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="new_TimeTronoss" tvg-id="M+ Liga de Campeones HD",M.L. Campeones
-acestream://9796f85036cb987fa21ef70e4b5e608e06f0c29d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="new_TimeTronoss" tvg-id="M+ Liga de Campeones HD",M.L. Campeones
-acestream://4e3302991c482dff2e10de69795fa5aa87a61ae7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="España" tvg-id="M+ Liga de Campeones HD",M.L. Campeones
+
+#EXTINF:-1,  M.L. Campeones 1080
+acestream://ee5ffa2c47cad5f00276904722e9d234def6f14a
+#EXTINF:-1, M.L. Campeones 1080
+acestream://7fd55d3cfc6b8b9c3195b1c852c0a04145756247
+#EXTINF:-1, M.L. Campeones 1080
+acestream://10ae32928d1320eb98d4656cd1faa16ad3648e82
+#EXTINF:-1, M.L. Campeones 1080
+acestream://c691bfa3517ada9c7626c9c82bda7f1a1f6eeac0
+#EXTINF:-1, M.L. Campeones 1080
+acestream://b67ac651bcb2e93fda9dba2a122e083f20394067
+#EXTINF:-1, M.L. Campeones 1080
+acestream://720c2a7afc922d575d658d98285645683dc9d346
+#EXTINF:-1, M.L. Campeones 1080
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1, M.L. Campeones 1080
+acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
+#EXTINF:-1, M.L. Campeones 1080
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1, M.L. Campeones 1080
+acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 
 #EXTINF:-1, M.L. Campeones 2 1080
 acestream://c070cdb701fc46bb79d17568d99fc64620443d63
 #EXTINF:-1, M.L. Campeones 2 720
 acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
-#EXTINF:-1 tvg-logo="https://i.ibb.co/187Ky7T/camp02.png" group-title="new_TimeTronoss" tvg-id="M+ Liga de Campeones 2 HD",M.L. Campeones 2
-acestream://e3f891c3dd120b4b1dab40e5c932ac65873a0465
-#EXTINF:-1 tvg-logo="https://i.ibb.co/187Ky7T/camp02.png" group-title="new_TimeTronoss" tvg-id="M+ Liga de Campeones 2 HD",M.L. Campeones 2
-acestream://061bda6fe2e50c509afd83f63a601e139d75d3a0
+
+#EXTINF:-1, M.L. Campeones 2 1080
+acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
+#EXTINF:-1, M.L. Campeones 2 1080
+acestream://5c552dda22c9b00a3b7cf8a1a485034f8d90f978
+#EXTINF:-1, M.L. Campeones 2 1080
+acestream://17522a1d20641f167bc2c342a2ae584755be6f11
+#EXTINF:-1, M.L. Campeones 2 1080
+acestream://000b384859bf2ec421e27a6ca851afeb160e3712
+#EXTINF:-1, M.L. Campeones 2 1080
+acestream://a60baf4991755b349b588a490918785f0a5a29c3
 
 #EXTINF:-1, M.L. Campeones 3 1080
 acestream://3618edda333dad5374ac2c801f5f14483934b97d
 #EXTINF:-1, M.L. Campeones 3 720
 acestream://0b348cc1ae499e810729661878764a0fab88ab69
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pJ5dZBG/camp03.png" group-title="new_TimeTronoss" tvg-id="M+ Liga de Campeones 3 HD",M.L. Campeones 3
-acestream://e42984ac6529407462f92201af95c01db8988368
+
+#EXTINF:-1, M.L. Campeones 3 1080
+acestream://7274ccecb51b67499c4239eda91d4de6c9af8dd3
+#EXTINF:-1, M.L. Campeones 3 1080
+acestream://4055cb22a44f48f06c0e3ade3bfd9c804bbab7e7
+#EXTINF:-1, M.L. Campeones 3 1080
+acestream://29dfa2835d44bcda0a27200cda0416fdb1cfcc98
 
 #EXTINF:-1, M.L. Campeones 4 1080
-acestream://65a18a6bd83918a9586b673fec12405aaf4e9f7d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GtKncC/camp04.png" group-title="new_TimeTronoss" tvg-id="M+ Liga de Campeones 4",M.L. Campeones 4
-acestream://01152274037c5f7155489e0a977cbde71a61290c
+acestream://42f8705aecde8d1f4c5b7c4086690b62d78a275e
+#EXTINF:-1, M.L. Campeones 4 1080
+acestream://59e80a6a8295c9365d00bf88f05fba61b0787716
 
 # MOVISTAR+
 # _________
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" group-title="ELCANO", M.Plus 1080
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" group-title="new_TimeTronoss" tvg-id="Movistar Plus+ HD",M+ Plus+
-acestream://bf270b6486daf3a2aa54bc027fd7cb02401a447a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gL8rx1B7/plus2.png" group-title="new_TimeTronoss" tvg-id="Movistar Plus+ 2 HD",M+ Plus+ 2
-acestream://0ab6bab2334d442b68671cc86c4243f2b0bf1290
+#EXTINF:-1, M+ PLUS
+acestream://a357cb0f77e39380844dbf93ec647156d7f2ded1
+
+#EXTINF:-1, M+ PLUS 2
+acestream://5e72e80a16854b1d9480928f5febf6b2490a601f
 
 # VAMOS
 # _____
@@ -112,14 +140,37 @@ acestream://0ab6bab2334d442b68671cc86c4243f2b0bf1290
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="ELCANO", #Vamos 720
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="new_TimeAdrian" tvg-id="M+ Vamos HD",Vamos
-acestream://0b7057503d40a24417441484479cfe2d0eceb2fd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="new_TimeTronoss" tvg-id="M+ Vamos HD",Vamos
-acestream://6d949579bc230abff933d5ac242961319bbebc4b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="new_TimeTronoss" tvg-id="M+ Vamos HD",Vamos
-acestream://b16127ba49c5065b877cb2d4073f2a4bb9a1ddbe
+
+#EXTINF:-1, #VAMOS
+acestream://a55df9a3db614b4e92ea7f8612a9624e7a9f226d
+#EXTINF:-1, #VAMOS
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1, #VAMOS
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1, #VAMOS
+acestream://67ea7c1a0e406884dbbbe0f08100de3132ac2cfd
+#EXTINF:-1, #VAMOS
+acestream://ef3fe310b5f1687fdedd6672c93f27cbeb586f7e
+#EXTINF:-1, #VAMOS
+acestream://6b85de2b176abfcbc4c4b76aeaf3976399865ea0
+#EXTINF:-1, #VAMOS
+acestream://5dbfe26d5486f962466eba41c63a3e1a042d83bb
 
 # EUROSPORT
+# _________
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="ELCANO", EuroSport 1 1080
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+
+#EXTINF:-1, EUROSPORT 1
+acestream://0df51c05a2a52a8a4e2a79a9a7908154320bf109
+#EXTINF:-1, EUROSPORT 1
+acestream://b1c0b59ac516905ff73d28f083cf3165aeaaa63d
+#EXTINF:-1, EUROSPORT 1
+acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
+#EXTINF:-1, EUROSPORT 1
+acestream://fbc82948dd7c19387a702692bc4590157b376459
+#EXTINF:-1, EUROSPORT 1
+acestream://f5a5a5bf9903bde0c865e421f126c42e514ff787
+#EXTINF:-1, EUROSPORT 1
+acestream://23a4937f1484b435af132dbfb3e8fd3aefc9baad
