@@ -38,8 +38,10 @@ acestream://97ba38d47680954be40e48bd8f43e17222fefecb
 
 # EUROSPORT_________________________________________
 
-#EXTINF:-1, EuroSport 
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1, EuroSport (Alemán)
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1, EuroSport (Ruso)
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 
 # VAMOS_________________________________________
 
