@@ -60,7 +60,11 @@ acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 # M. PLUS_________________________________________
 
 #EXTINF:-1, M.Plus 1080
+acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4
+#EXTINF:-1, M.Plus 1080
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1, M.Plus 2 1080
+acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
 
 # M. LA CHAMPION_________________________________________
 
