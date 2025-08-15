@@ -49,7 +49,12 @@ http://127.0.0.1:6878/ace/getstream?id=1205151f6fa5d95c0eeb543cbce43ccfa6a1b216
 #EXTINF:-1 group-title="LA LIGA", M+ LALIGA
 http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 group-title="LA LIGA", M+ LALIGA
-http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+#EXTINF:-1 group-title="LA LIGA", M+ LALIGA
+http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
+#EXTINF:-1 group-title="LA LIGA", M+ LALIGA
+http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
+
 #EXTINF:-1 group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD
 http://127.0.0.1:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
 #EXTINF:-1 group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD
