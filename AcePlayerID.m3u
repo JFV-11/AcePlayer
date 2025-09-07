@@ -1,5 +1,10 @@
 # --- MOVISTAR --- #
 
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 
+acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2
+acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+
 #EXTINF:-1 group-title="MOVISTAR", MOVISTAR PLUS
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 group-title="MOVISTAR", MOVISTAR PLUS
