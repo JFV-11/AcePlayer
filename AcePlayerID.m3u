@@ -1,12 +1,3 @@
-#EXTINF:-1 group-title="MOVISTAR", TMP
-acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 group-title="MOVISTAR", TMP
-acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-#EXTINF:-1 group-title="MOVISTAR", TMP
-acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
-#EXTINF:-1 group-title="MOVISTAR", TMP
-acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
-
 # --- MOVISTAR --- #
 
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 
@@ -155,3 +146,14 @@ acestream://83c02982581a536d1321e38a77dc0c520b1cb842
 acestream://97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
 #EXTINF:-1 group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 9 FHD
 acestream://80abcb38122c25fefb4dffeb57086998447ff49b
+
+# --- TEMPORAL --- #
+
+#EXTINF:-1 group-title="MOVISTAR", TMP
+acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 group-title="MOVISTAR", TMP
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 group-title="MOVISTAR", TMP
+acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+#EXTINF:-1 group-title="MOVISTAR", TMP
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
