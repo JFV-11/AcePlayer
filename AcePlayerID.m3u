@@ -107,15 +107,14 @@ acestream://ed6188dcbb491efeb2092c1a6199226c27f61727
 
 # --- DAZN --- #
 
-#EXTINF:-1 group-title="DAZN", DAZN 1
+#EXTINF:-1, DAZN 1
+acestream://a116ce3ff95c41c60e987e2b1aa247007f707884
+#EXTINF:-1, DAZN 1
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 group-title="DAZN", DAZN 1
-acestream://6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 group-title="DAZN", DAZN 1
-acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 group-title="DAZN", DAZN 1
+#EXTINF:-1, DAZN 1 FHD
+acestream://691739972eb3468cf16b25e84dafdeaa40dead6d
+#EXTINF:-1, DAZN 1 FHD
 acestream://4141892f5df7d6474bf0279895ce02b7336c9928
-
 
 # --- MOVISTAR --- #
 
