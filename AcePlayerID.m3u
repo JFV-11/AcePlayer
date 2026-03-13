@@ -143,8 +143,10 @@ acestream://b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
 
 #EXTINF:-1, DAZN 1 FHD
 acestream://691739972eb3468cf16b25e84dafdeaa40dead6d
-#EXTINF:-1, DAZN 1
-acestream://a116ce3ff95c41c60e987e2b1aa247007f707884
+#EXTINF:-1, DAZN 1 FHD
+acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9
+#EXTINF:-1, DAZN 1 FHD
+acestream://4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1, DAZN 1
 acestream://dddff67edfa7061f643ec5ae0be110169850363d
 #EXTINF:-1, DAZN 1
