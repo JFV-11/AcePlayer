@@ -1,5 +1,4 @@
 # --- FÚTBOL --- #
-
 #EXTINF:-1, M+ LALIGA
 acestream://f863873de9f7b2996dde19a0657dd89835af3007
 #EXTINF:-1, M+ LALIGA
@@ -23,7 +22,6 @@ acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae
 acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 
 # --- LIGA DE CAMPEONES --- #
-
 #EXTINF:-1, LIGA DE CAMPEONES FHD
 acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
 #EXTINF:-1, LIGA DE CAMPEONES FHD
@@ -105,7 +103,6 @@ acestream://64f01629d4a19e70efd9e6778c397282ba087547
 acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 
 # --- F1 --- #
-
 #EXTINF:-1, DAZN F1 HD
 acestream://6d325cda6ed591647ef5e91edd043147bce8be30
 #EXTINF:-1, DAZN F1
@@ -139,8 +136,26 @@ acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1, DAZN F1 FHD
 acestream://b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
 
-# --- DAZN --- #
+# --- MOTOGP --- #
+#EXTINF:-1, DAZN MOTOGP
+acestream://11cbb5346d28af0b972e646832f4be23dd39502d
+#EXTINF:-1, DAZN MOTOGP
+acestream://18b03739d660f0066364343e226e437bf2555d56
+#EXTINF:-1, DAZN MOTOGP
+acestream://ef341794651e00b7fcc5b5da8570ea37418c5406
+#EXTINF:-1, DAZN MOTOGP
+acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
+#EXTINF:-1, DAZN MOTOGP
+acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5
+#EXTINF:-1, DAZN MOTOGP
+acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1, DDAZN MOTOGP
+acestream://342ca6975a4884d81f9fec5c4085a47060bd2028
+#EXTINF:-1, DAZN MOTOGP
+acestream://129c707eb4854171d178a566f36d90b7f2b5e624
 
+
+# --- DAZN --- #
 #EXTINF:-1, DAZN 1 FHD
 acestream://691739972eb3468cf16b25e84dafdeaa40dead6d
 #EXTINF:-1, DAZN 1 FHD
@@ -161,17 +176,7 @@ acestream://1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187
 # --- MOVISTAR --- #
 
 
-# --- COPA DEL REY --- #
-
-#EXTINF:-1, COPA DEL REY
-acestream://4b9f813f30b4345fe555f9e218d828d76cd6ee88
-#EXTINF:-1, COPA DEL REY
-acestream://63ad519ec9602ea12f7867cf15914b2537bbf04a
-#EXTINF:-1, COPA DEL REY FHD
-acestream://28205d7c9776b96a1f479c9082e80bd1e18f5afdfd
-
 # --- EUROSPORT --- #
-
 #EXTINF:-1, EUROSPORT 1 FHD
 acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1, EUROSPORT 1 FHD
@@ -191,11 +196,6 @@ acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
 acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 
 # --- TEMPORAL --- #
-
-#EXTINF:-1, DAZN MOTOGP
-acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5
-#EXTINF:-1, DAZN MOTOGP
-acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
 #EXTINF:-1, group-title="MOVISTAR", TMP
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1, group-title="MOVISTAR", TMP
