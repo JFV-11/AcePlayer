@@ -221,6 +221,11 @@ acestream://1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187
 
 # --- EUROSPORT --- #
 #EXTINF:-1, EUROSPORT 1
+acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
+#EXTINF:-1, EUROSPORT 1
+acestream://8522af51ae7189b12effabbb448dcb707195ce1a
+
+#EXTINF:-1, EUROSPORT 1
 acestream://a7b42f9d65636d1b1d9316d3e91ebe12b192658c
 #EXTINF:-1, EUROSPORT 1
 acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea
