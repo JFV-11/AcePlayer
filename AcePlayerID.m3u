@@ -1,85 +1,85 @@
 === LA LIGA ===
 
-DAZN LaLiga
+#EXTINF:-1, DAZN LaLiga
 acestream://385abcf801b787eec6ed6624908758bb165c0a55
-DAZN LaLiga 
+#EXTINF:-1, DAZN LaLiga 
 acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889
-DAZN LaLiga 
+#EXTINF:-1, DAZN LaLiga 
 acestream://7f9857c45764ef2c7cdfb619b89db3056a57a51f
-DAZN LaLiga 2 
+#EXTINF:-1, DAZN LaLiga 2 
 acestream://465075c02b7284f564911bd63d1c6f0a8d464be7
-DAZN LaLiga
+#EXTINF:-1, DAZN LaLiga
 acestream://9c75f1d190c518cfe0f236415b8dccc1f676ef3b
-M+ LaLiga
+#EXTINF:-1, M+ LaLiga
 acestream://5ad75216a63a31fef23ddc3532edc66c2fc0936c
-M+ LaLiga 
+#EXTINF:-1, M+ LaLiga 
 acestream://d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
-M+ LaLiga 
+#EXTINF:-1, M+ LaLiga 
 acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
-M+ LaLiga 3
+#EXTINF:-1, M+ LaLiga 3
 acestream://830ceea0061cddf3006de6f34e24b30f8ee0956a
-M+ LaLiga 4
+#EXTINF:-1, M+ LaLiga 4
 acestream://ac91a7162abe8d716d180b02e58ab97848944c1e
-M+ LaLiga 4 
+#EXTINF:-1, M+ LaLiga 4 
 acestream://ef22f5802c2fa4cce93d209727758c0eb04fc351
 
 === LIGA DE CAMPEONES ===
 
-M+ Liga de Campeones 
+#EXTINF:-1, M+ Liga de Campeones 
 acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
-M+ Liga de Campeones 
+#EXTINF:-1, M+ Liga de Campeones 
 acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
-M+ Liga de Campeones 
+#EXTINF:-1, M+ Liga de Campeones 
 acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
-M+ Liga de Campeones 2 
+#EXTINF:-1, M+ Liga de Campeones 2 
 acestream://8156912ae14f6174a19c8a4efcf36a06e847f632
-M+ Liga de Campeones 3 
+#EXTINF:-1, M+ Liga de Campeones 3 
 acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
-M+ Liga de Campeones 5 
+#EXTINF:-1, M+ Liga de Campeones 5 
 acestream://5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
 
 === MOTOGP ===
 
-Dazn MotoGP 
+#EXTINF:-1, DAZN MotoGP 
 acestream://ac33342ccf7d40d46174229085461d95000b9137
-Dazn MotoGP 
+#EXTINF:-1, DAZN MotoGP 
 acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
-Dazn MotoGP 
+#EXTINF:-1, DAZN MotoGP 
 acestream://342ca6975a4884d81f9fec5c4085a47060bd2028
 
 === FORMULA 1 ===
 
-DAZN F1
+#EXTINF:-1, DAZN F1
 acestream://ed6188dcbb491efeb2092c1a6199226c27f61727
-DAZN F1 
+#EXTINF:-1, DAZN F1 
 acestream://d719181097d256073844390b3e094fbcb1bceaa4
-DAZN F1 
+#EXTINF:-1, DAZN F1 
 acestream://895d08633bb22c2573281655cf3ca44de476cc73
 
 === EUROSPORT ===
 
-Eurosport 1 
+EUROSPORT 1 
 acestream://8522af51ae7189b12effabbb448dcb707195ce1a
-Eurosport 2
+EUROSPORT 2
 acestream://7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2
 
 === BALONCESTO ===
 
-DAZN Baloncesto 
+#EXTINF:-1, DAZN Baloncesto 
 acestream://4005aabe21ba9c6d748845db91e4f48d99f58639
-DAZN Baloncesto 
+#EXTINF:-1, DAZN Baloncesto 
 acestream://fc912a111ea5a88e02b858b5014d2358b11c84ac
-DAZN Baloncesto
+#EXTINF:-1, DAZN Baloncesto
 acestream://9dd9cd78f0b08097a0ad290606dbbee999709fa5
-DAZN Baloncesto 
+#EXTINF:-1, DAZN Baloncesto 
 acestream://6fbd92735502bdebbf1ea58f4298e49759c0cf07
-M+ Baloncesto 
+#EXTINF:-1, M+ Baloncesto 
 acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6
-M+ Baloncesto 
+#EXTINF:-1, M+ Baloncesto 
 acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
-M+ Baloncesto 
+#EXTINF:-1, M+ Baloncesto 
 acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
-M+ Baloncesto 2 
+#EXTINF:-1, M+ Baloncesto 2 
 acestream://c8c33b2673efe7f386790c5966643820578f3535
 
 === DAZN ===
@@ -91,13 +91,13 @@ acestream://908bc5e7ae52afc06e40793b6db749dba11a1780
 
 === HYPERMOTION ===
 
-LaLiga TV Hypermotion 
+#EXTINF:-1, LaLiga TV Hypermotion 
 acestream://1f75d92098580443857caa95a719103cb83781b0
-LaLiga TV Hypermotion 
+#EXTINF:-1, LaLiga TV Hypermotion 
 acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
-LaLiga TV Hypermotion 
+#EXTINF:-1, LaLiga TV Hypermotion 
 acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
-LaLiga TV Hypermotion 2 
+#EXTINF:-1, LaLiga TV Hypermotion 2 
 acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55
 
 === MOVISTAR ===
@@ -109,52 +109,52 @@ acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
 === MOVISTAR DEPORTES ===
 
-M+ Deportes
+#EXTINF:-1, M+ Deportes
 acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab
-M+ Deportes 
+#EXTINF:-1, M+ Deportes 
 acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f
-M+ Deportes 2 
+#EXTINF:-1, M+ Deportes 2 
 acestream://6b15368775693c33c49fab02e7900c1976a5da90
-M+ Deportes 2 
+#EXTINF:-1, M+ Deportes 2 
 acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
-M+ Deportes 3 
+#EXTINF:-1, M+ Deportes 3 
 acestream://f4d9011721fad5098febbe4d7c078a582e176a01
-M+ Deportes 3 
+#EXTINF:-1, M+ Deportes 3 
 acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810
-M+ Deportes 4 
+#EXTINF:-1, M+ Deportes 4 
 acestream://4abe06c5cce7cb3c6bef2c3bccaafefd3299794f
-M+ Deportes 4 
+#EXTINF:-1, M+ Deportes 4 
 acestream://7bede102385c65a545db531af476ef18c31f6258
-M+ Deportes 5 
+#EXTINF:-1, M+ Deportes 5 
 acestream://646a1ed4ece843de1979f7888cbdd4d937506a28
-M+ Deportes 5 
+#EXTINF:-1, M+ Deportes 5 
 acestream://15ec214bb10925dadd16a1716bb2042af6008a93
-M+ Deportes 6 
+#EXTINF:-1, M+ Deportes 6 
 acestream://e6cd9205e26b3b6680f607030c702e911272524a
-M+ Deportes 8 
+#EXTINF:-1, M+ Deportes 8 
 acestream://abe6834b6e2509d2ff5b5b04f7ecb1db6e81083a
-M+ Golf 
+#EXTINF:-1, M+ Golf 
 acestream://f60535a458b3c114283e2f433379144345beddd6
-M+ Golf 
+#EXTINF:-1, M+ Golf 
 acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530
-M+ Golf 
+#EXTINF:-1, M+ Golf 
 acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
-M+ Vamos 
+#EXTINF:-1, M+ Vamos 
 acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
-M+ Vamos 
+#EXTINF:-1, M+ Vamos 
 acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
-M+ VAMOS 2 
+#EXTINF:-1, M+ VAMOS 2 
 acestream://f51674b1dd1ab5a668fa97a0f13a490632f0d7ca
-M+ VAMOS 3
+#EXTINF:-1, M+ VAMOS 3
 acestream://837883625d40e1eb5566eefaf74811046491f53a
-M+ VAMOS 3 
+#EXTINF:-1, M+ VAMOS 3 
 acestream://a9299052e9a16e5e2924e1fdd00b877c374f9e96
 
 === TENNIS ===
 
-Tennis Channel 
+#EXTINF:-1, Tennis Channel 
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
-Tennis Channel 
+#EXTINF:-1, Tennis Channel 
 acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
 
 === TEMPORAL ===
@@ -163,7 +163,7 @@ acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1, group-title="", TMP
 acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-#EXTINF:-1, group-title="MOVISTAR", TMP
+#EXTINF:-1, group-title="", TMP
 acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 #EXTINF:-1, group-title="", TMP
 acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
