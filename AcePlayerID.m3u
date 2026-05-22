@@ -58,9 +58,9 @@ acestream://895d08633bb22c2573281655cf3ca44de476cc73
 
 === EUROSPORT ===
 
-EUROSPORT 1 
+#EXTINF:-1, EUROSPORT 1 
 acestream://8522af51ae7189b12effabbb448dcb707195ce1a
-EUROSPORT 2
+#EXTINF:-1, EUROSPORT 2
 acestream://7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2
 
 === BALONCESTO ===
@@ -84,9 +84,9 @@ acestream://c8c33b2673efe7f386790c5966643820578f3535
 
 === DAZN ===
 
-DAZN 1 
+#EXTINF:-1, DAZN 1 
 acestream://78124d96a1a4601e7910f50e36a16e35efcfb398
-DAZN 3 
+#EXTINF:-1, DAZN 3 
 acestream://908bc5e7ae52afc06e40793b6db749dba11a1780
 
 === HYPERMOTION ===
@@ -102,9 +102,9 @@ acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55
 
 === MOVISTAR ===
 
-Disney Junior 
+#EXTINF:-1, Disney Junior 
 acestream://a722bc25dfa16d1112fde83cb79501b9756586d1
-MOVISTAR PLUS 
+#EXTINF:-1, MOVISTAR PLUS 
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
 === MOVISTAR DEPORTES ===
