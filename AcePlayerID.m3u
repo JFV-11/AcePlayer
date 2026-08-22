@@ -47,9 +47,9 @@ acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
 acestream://342ca6975a4884d81f9fec5c4085a47060bd2028
 
 #EXTINF:-1, EUROSPORT
-acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1, EUROSPORT 2
 acestream://8522af51ae7189b12effabbb448dcb707195ce1a
+#EXTINF:-1, EUROSPORT
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
 
 #EXTINF:-1, M+ CINE ESPAÑOL
 acestream://dc044c79fcde8ed69ed4c878643b09f09e7ccb72
