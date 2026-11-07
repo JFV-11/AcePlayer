@@ -36,7 +36,11 @@ acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 #EXTINF:-1, DAZN F1
 acestream://d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1, DAZN F1
-acestream://ee4646aae30d862e0d9d453998a344a60aaa7cde
+acestream://6d325cda6ed591647ef5e91edd043147bce8be30
+#EXTINF:-1, DAZN F1
+acestream://6d325cda6ed591647ef5e91edd043147bce8be30
+#EXTINF:-1, DAZN F1
+acestream://91823ce98b319e417da089e4b977eaa6a90a2218
 
 #EXTINF:-1, DAZN MOTOGP
 acestream://2a05a020dfe97aaa0665bb7551022868b2a88b36
